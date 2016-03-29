@@ -1,7 +1,7 @@
 # PullToRefresh
 郭神博客的下拉刷新控件
 ##核心类:
-<code>
+<pre><code>
 package com.example.iscoder.pulltorefreshtest;
 
 import android.content.Context;
@@ -473,4 +473,4 @@ public class RefreshableView extends LinearLayout implements View.OnTouchListene
         void onRefresh();
     }
 }
-</code>
+</pre></code>
