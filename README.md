@@ -473,4 +473,4 @@ public class RefreshableView extends LinearLayout implements View.OnTouchListene
         void onRefresh();
     }
 }
-</pre></code>
+</code></pre>
